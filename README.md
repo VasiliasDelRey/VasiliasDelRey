@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vasiliás del Rey 👑</h1>
+<h1 align="center">Hi 👋, I'm <i>Vasiliás del Rey </i>👑</h1>
 <img align="center" width="800" height="200" src="https://th.bing.com/th/id/R.0287d3ba8b3330fca99f69e2001d3168?rik=ZJA4lHsBSEtkxw&pid=ImgRaw&r=0"
 <h2 align="center"> <i>Passionate Developer and Artist from Kenya</i>💻</h2>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LimpingCarefreeGlassfrog-size_restricted.gif"
